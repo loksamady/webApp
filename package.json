@@ -16,9 +16,11 @@
   },
   "dependencies": {
     "@telegram-apps/init-data-node": "^2.0.10",
+    "@telegram-apps/sdk": "^3.11.4",
     "@telegram-apps/sdk-react": "^3.3.6",
     "@telegram-apps/telegram-ui": "^2.1.8",
     "@tonconnect/ui-react": "^2.1.0",
+    "@twa-dev/sdk": "^8.0.2",
     "eruda": "^3.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
